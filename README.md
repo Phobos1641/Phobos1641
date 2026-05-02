@@ -18,14 +18,6 @@ My coding strategy is to aggressively throw code at the compiler until it works.
 - **Graphics:** The GNU Image Manipulation Program and Krita.
 - **Licensing:** AGPL for software, CC BY-NC-SA for everything else.
 
-## Projects
-
-- **[netlify-booru-router](https://gitgud.io/orochi/megumin/netlify-booru-router)** --
-a CORS relay for \*booru APIs implemented with Netlify's Edge Functions.
-- **[anilist-account-sync-merge](https://gitgud.io/orochi/anilist-account-sync-merge)** --
-Python script which merges a source AniList account's entries into a target account while
-preserving anything already completed on the target side.
-
 ## Currently Learning
 
 Japanese! I like to keep learning new things wherever and whenever I can -- the subject changes, but the curiosity doesn't.
@@ -42,10 +34,6 @@ When I'm not staring at compiler errors, you can probably find me:
 - Reading -- regular books, sometimes light novels or manga.
 - Tinkering with old cars and vintage tech.
 - Picking up some new skill or topic.
-
-## Say Hi!
-
-You can find me on the Fediverse: [@Phobos@eientei.org](https://eientei.org/users/Phobos)
 
 ---
 
